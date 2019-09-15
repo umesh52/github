@@ -5,11 +5,7 @@ def add(x,y):
         def multiply(x,y):
                 pass
             def divide(x,y):
-                    pass
+                   return x/y
                 def square(x,y):
                         pass
-                    git add -A
-                    make change in the calc.py
-                    def multiply(x,y):
-                            return x*y
 x
